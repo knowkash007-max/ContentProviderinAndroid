@@ -240,7 +240,8 @@ public class MainActivity extends Activity {
 ```
 
 ## OUTPUT
-<img width="1901" height="1016" alt="Screenshot 2026-11-22 112950" src="https://github.com/user-attachments/assets/0aa28da3-df97-4268-980b-f9b46612bf47" />
+<img width="1237" height="656" alt="image" src="https://github.com/user-attachments/assets/359536f8-14e3-4459-b063-b7692d2aa0cc" />
+
 
 ## RESULT
 Thus a Simple Android Application create your own content providers to get contacts details using Android Studio is developed and executed successfully.
